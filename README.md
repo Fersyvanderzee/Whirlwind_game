@@ -5,6 +5,7 @@ A whirlwind game for the Raspberry Pi. The idea is the same as the cyclone games
 I still need to include the following:
 
 - score/count system
+- get a case and rewire
 
 Pictures of the project:
 
